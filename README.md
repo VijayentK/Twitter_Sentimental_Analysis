@@ -11,7 +11,7 @@ Python based application
 
 Ubuntu 
 
-IDLE 2.7
+IDLE 2.7 // from ubuntu software centre
 
 Step 1. Installing pip for python : "$ sudo apt-get install python-pip "
 
